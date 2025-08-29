@@ -20,15 +20,9 @@ Validation: Mongoose validators & middleware
 
 ###Installation
 
-# Clone repo
-git clone <your-repo-url>
-cd library-management
-
 # Install dependencies
 npm install
-
 # Copy environment file
 cp .env.example .env
-
 # Start dev server
 npm run dev
